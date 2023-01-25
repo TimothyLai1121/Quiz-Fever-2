@@ -1,27 +1,56 @@
-# Quiz Alert ![filecounts](https://img.shields.io/github/directory-file-count/TimothyLai1121/Quiz-Javascript) 
+![banner](./assets/readme-gifs/AnotherPortfolio.png)
+
+# Quiz Alert :memo: 
+![issues](https://img.shields.io/github/issues/TimothyLai1121/Quiz-Javascript)
+
+# Language #
+
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+
+# Snippet :clapper:
+![gifs](./assets/readme-gifs/WittDtjr.gif)
 
 # HTML # 
-Use HTML to create the structure of the quiz, including the start button, questions, and timer display.
-* Create a button element that will be used as the start button, you could use a div, span or button HTML tag.
-* Create a div element that will be used to display the questions and answers, you can use a form to hold questions and radio buttons/checkboxes for answers.
-* Create a span element that will be used to display the timer.
+On this project, I will include 3 HTML files.
+* index.html[^1]
+* game.html[^2]
+* end.html[^3]
+
+[^1]: index.html will present a play button and direct to game.html.
+[^2]: game.html will be where player will have 90 seconds to complete the quiz before getting alert for time's up!
+[^3]: end.html will have four buttons for user to either submit score, play again, main page, and visiting creator portfolio.
 
 # CSS #
-Use CSS to style the quiz, including the layout and visual elements such as colors and fonts.
-* Style the start button to make it stand out and look like a button.
-* Use CSS to style the layout of the questions and answers, such as positioning and spacing.
-* Use CSS to style the timer, including the font size, color, and position on the page.
+My favorite part of web development. Colors
+
+* I had included a font from Google Fonts
+* Picked out a color pallete and turned it into variable for easier mark up.
+
+![csssnippet](./assets/readme-gifs/css-snippet.png)
+![csspallete](./assets/readme-gifs/Mountain-Haze-Pallete.png)
 
 # JavaScript #
-Use JavaScript to add interactivity to the quiz [^1], including starting the timer, presenting the questions, and handling user input.
-* Add an event listener to the start button that will start the timer and present the first question when clicked.
-* Create a function that presents the next question after the user has answered the previous one.
-* Create a function that subtracts time from the timer when the user answers a question incorrectly.
-* Create a function that ends the game when all questions have been answered or the timer reaches 0.
-* Create a function that allows the user to save their initials and score after the game is over.
+![jsgifs](./assets/readme-gifs/js-snippet.png)
+
+What I understand more on this project are these two terms
+* document.getElementById
+* document.getElementByClass
+* I did look up into API a little bit but still having difficult with understand javascript. Wait for update
 
 
-[^1]You should use JavaScript to hide and show questions and answers, handle user input, update the timer and validate if the answer is correct.
+# References  :bookmark_tabs:
 
-# References #
-* https://shields.io/
+Here is all the reference that I used in this project
+
+| Websites | Urls |
+| -------- | ---- |
+| Shield.io | [https://shields.io/] |
+| Banner Maker | [https://banner.godori.dev/] |
+| Javascript & Jquery | [https://javascriptbook.com/] |
+| Carbon | [https://carbon.now.sh/] |
+| YouTube | [https://www.youtube.com/] |
+| StackOverFlow | [https://stackoverflow.com/] |
+
+# Footnotes  :foot:
